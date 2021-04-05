@@ -1,5 +1,5 @@
 <?
-namespace laravelapp\helper\App;
+namespace teamprodev\helper\App;
 
 class Helper {
 

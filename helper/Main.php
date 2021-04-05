@@ -1,12 +1,12 @@
 <?
 namespace teamprodev\helper;
-use laravelapp\helper\App;
+use teamprodev\helper\App;
 
 class Main {
 
     function helloWorld()
     {
-        $helper = new App\Helper();
+        $helper = new Helper();
         $helper->my_helper();
         echo "Hello main!";
     }
