@@ -6,7 +6,7 @@ class Main {
 
     function helloWorld()
     {
-        $helper = new Helper();
+        $helper = new App\Helper();
         $helper->my_helper();
         echo "Hello main!";
     }
