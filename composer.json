@@ -1,0 +1,31 @@
+{
+  "name": "laravelapp/helper",
+  "description": "Call app project",
+  "keywords": ["yii2","extension","widget","statistics","call","operator","sample"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "creatorapp",
+      "email": "mrasrorzakirov@gmail.com"
+    }
+  ],
+  "version": "dev-master",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "laravelapp\\helper\\": "helper"
+    },
+    "files": [
+      "helper/App/Helpers.php"
+    ]
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
