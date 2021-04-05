@@ -31,11 +31,11 @@ private static $installed = array (
     array (
     ),
     'reference' => NULL,
-    'name' => 'laravelapp/helper',
+    'name' => 'teamprodev/helper',
   ),
   'versions' => 
   array (
-    'laravelapp/helper' => 
+    'teamprodev/helper' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',

@@ -7,18 +7,18 @@ namespace Composer\Autoload;
 class ComposerStaticInite31460562cd782c577bf0fb71e03d9f5
 {
     public static $files = array (
-        'f2d3cd245f74c2752478e7c26e15be5c' => __DIR__ . '/../..' . '/helper/App/Helpers.php',
+        'd1cf880dfa03bd2ab010697610cc97a5' => __DIR__ . '/../..' . '/helper/App/Helpers.php',
     );
 
     public static $prefixLengthsPsr4 = array (
-        'l' => 
+        't' => 
         array (
-            'laravelapp\\helper\\' => 18,
+            'teamprodev\\helper\\' => 18,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'laravelapp\\helper\\' => 
+        'teamprodev\\helper\\' => 
         array (
             0 => __DIR__ . '/../..' . '/helper',
         ),

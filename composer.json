@@ -1,13 +1,13 @@
 {
-  "name": "laravelapp/helper",
+  "name": "teamprodev/helper",
   "description": "Call app project",
   "keywords": ["yii2","extension","widget","statistics","call","operator","sample"],
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "creatorapp",
-      "email": "mrasrorzakirov@gmail.com"
+      "name": "iBekzod",
+      "email": "erkinovbegzod.45@gmail.com"
     }
   ],
   "version": "dev-master",
@@ -16,7 +16,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "laravelapp\\helper\\": "helper"
+      "teamprodev\\helper\\": "helper"
     },
     "files": [
       "helper/App/Helpers.php"
