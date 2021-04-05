@@ -22,7 +22,7 @@ or add below line to the require section of composer.json file and then run `php
 
  You should use in class
 ```
-use laravelapp\helper\Main;
+use teamprodev\helper\Main;
 
 $main = new Main();
 $main->helloWorld();
