@@ -22,11 +22,5 @@
     "psr-4": {
       "teamprodev\\helper\\": "helper"
     }
-  },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://asset-packagist.org"
-    }
-  ]
+  }
 }
