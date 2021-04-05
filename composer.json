@@ -1,7 +1,7 @@
 {
   "name": "teamprodev/helper",
   "description": "Call app project",
-  "keywords": ["yii2","extension","widget","statistics","call","operator","sample"],
+  "keywords": ["extension","widget","sample"],
   "type": "library",
   "license": "MIT",
   "authors": [
