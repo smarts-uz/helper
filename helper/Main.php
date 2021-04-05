@@ -1,8 +1,9 @@
 <?
-namespace laravelapp\helper;
+namespace teamprodev\helper;
 use laravelapp\helper\App;
 
 class Main {
+
     function helloWorld()
     {
         $helper = new App\Helper();

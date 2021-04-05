@@ -1,7 +1,11 @@
 {
   "name": "teamprodev/helper",
-  "description": "Call app project",
-  "keywords": ["extension","widget","sample"],
+  "description": "Helper Applications",
+  "keywords": [
+    "extension",
+    "widget",
+    "sample"
+  ],
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -10,17 +14,14 @@
       "email": "erkinovbegzod.45@gmail.com"
     }
   ],
-  "version": "dev-master",
+  "version": "1.0.1",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {},
   "autoload": {
     "psr-4": {
       "teamprodev\\helper\\": "helper"
-    },
-    "files": [
-      "helper/App/Helpers.php"
-    ]
+    }
   },
   "repositories": [
     {
