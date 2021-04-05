@@ -14,7 +14,7 @@
       "email": "erkinovbegzod.45@gmail.com"
     }
   ],
-  "version": "1.0.0",
+  "version": "dev-master",
   "prefer-stable": true,
   "require": {},
   "autoload": {
